@@ -1,2 +1,3 @@
-def area_rect(w, h):
-    return w * h
+def area_rectangle(width, height):
+    area = width * height
+    return area
